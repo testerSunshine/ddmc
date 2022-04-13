@@ -17,6 +17,7 @@
 注意事项
 1. Charles安装和配置好后再打开或重新打开电脑端叮咚小程序，如果在之前打开可能会抓不到
 2. 如果使用电脑端小程序抓包，则不要去碰手机微信里的叮咚小程序，否则session会失效，反过来也一样，其他操作在app上操作不影响，但不能同时在两个端的小程序操作，互斥
+3. exe中session、referer、device_id将从header中读取
 
 ## 版本
 2022041303版本更新日志
@@ -25,9 +26,9 @@
 2022041302版本更新日志
 1. 修复只有一个地址时的报错
 2. 优化线程打印
-exe中session、referer、device_id将从header中读取
-![图片](./header.png)
+
+![图片](./header.png) 
 exe中devices将从header中读取
-![图片](./params.png)
+![图片](./params.png) 
 有使用上的疑问可以加群咨询
-![图片](./header.png)
+![图片](./wx-group.jpg) 
