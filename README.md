@@ -2,7 +2,7 @@
 本程序为自动预约叮咚买菜小程序是的商品，无需配置代码环境，开箱即用
 
 ## 使用教程
-1. 在release下载已经打包好的程序并打开
+1. 在release下载已经打包好的程序并打开, [下载](https://gitee.com/wenxiansen/ddmc-gui/tags)
 1. 选用Charles抓包填入参数
 2. 执行即可
 
