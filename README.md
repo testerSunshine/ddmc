@@ -2,7 +2,7 @@
 本程序为自动预约叮咚买菜小程序是的商品，无需配置代码环境，开箱即用
 
 ## 使用教程
-1. 在release下载已经打包好的程序并打开, [下载](https://gitee.com/wenxiansen/ddmc-gui/tags)
+1. 在release下载已经打包好的程序并打开, [下载](https://gitee.com/wenxiansen/ddmc-gui/tags)，也会在gitee上同步更新此仓库 https://gitee.com/wenxiansen/ddmc-gui
 1. 选用Charles抓包填入参数
 2. 执行即可
 
@@ -18,17 +18,18 @@
 1. Charles安装和配置好后再打开或重新打开电脑端叮咚小程序，如果在之前打开可能会抓不到
 2. 如果使用电脑端小程序抓包，则不要去碰手机微信里的叮咚小程序，否则session会失效，反过来也一样，其他操作在app上操作不影响，但不能同时在两个端的小程序操作，互斥
 3. exe中session、referer、device_id将从header中读取
+exe中devices将从header中读取
 
 ## 版本
 2022041303版本更新日志
 1. 捡漏模式加强，建议捡漏设置间隔时间为10S
 2. 增加自动全选购物车所有商品
+
 2022041302版本更新日志
 1. 修复只有一个地址时的报错
 2. 优化线程打印
 
 ![图片](./header.png) 
-exe中devices将从header中读取
 ![图片](./params.png) 
 有使用上的疑问可以加群咨询
 ![图片](./wx-group.jpg) 
