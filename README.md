@@ -29,3 +29,5 @@ exe中session、referer、device_id将从header中读取
 ![图片](./header.png)
 exe中devices将从header中读取
 ![图片](./params.png)
+有使用上的疑问可以加群咨询
+![图片](./header.png)
