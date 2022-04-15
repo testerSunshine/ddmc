@@ -3,7 +3,14 @@
 ![图片](./ddmc.png) 
 
 ## 使用教程
-1. 在release下载已经打包好的程序并打开, [下载](https://gitee.com/wenxiansen/ddmc-gui/tags)，也会在gitee上同步更新此仓库 https://gitee.com/wenxiansen/ddmc-gui
+1. 在release下载已经打包好的程序并打开，也会在gitee上同步更新此仓库 https://gitee.com/wenxiansen/ddmc-gui
+   ```
+   蓝奏云下载地址
+   https://wwz.lanzoub.com/b00vjtkkf
+   密码:96hg
+   github release 下载地址
+   https://github.com/testerSunshine/ddmc/releases
+   ```
 2. 选用Charles抓包填入参数
 3. 执行即可
 
