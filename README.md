@@ -1,5 +1,6 @@
 # 叮咚小程序自动预约
-本程序为自动预约叮咚买菜小程序是的商品，无需配置代码环境，开箱即用
+本程序为自动预约叮咚买菜小程序商品，为exe软件，无需配置代码环境，开箱即用
+![图片](./ddmc.png) 
 
 ## 使用教程
 1. 在release下载已经打包好的程序并打开, [下载](https://gitee.com/wenxiansen/ddmc-gui/tags)，也会在gitee上同步更新此仓库 https://gitee.com/wenxiansen/ddmc-gui
@@ -45,6 +46,9 @@
 exe中devices将从header中读取
 
 ## 版本
+20220415014版本更新日志 
+1. 优化下单
+
 2022041404版本更新日志 
 1. 增加wxpusher推送
 
